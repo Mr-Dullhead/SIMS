@@ -26,5 +26,5 @@ Student Information Management System
 2、建立一个文件，将每位学生的信息写入文件中并能显示于屏幕上。
 3、完成上述信息查询（学生序号、姓名等）、排序、信息删除与修改功能 
 
-功能函数（略， 见function_1.cpp 文件）
+功能函数（见function_1.cpp 文件）
 头文件（略，见 sims.h 文件）
